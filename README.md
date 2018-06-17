@@ -1,3 +1,2 @@
-# snake
+# Snake
 Jeu du serpent
-bonjour c'est le read me
